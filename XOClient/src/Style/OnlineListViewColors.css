@@ -1,0 +1,7 @@
+.list-view .list-cell:even {
+    -fx-text-fill: darkgreen;
+}
+
+.list-view .list-cell:odd {
+    -fx-text-fill: darkgreen;
+}

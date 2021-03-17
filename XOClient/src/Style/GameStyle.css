@@ -1,0 +1,14 @@
+.bodybg3 {
+    -fx-background-color: #8c062c;
+    -fx-background-size: 100% 100%;
+}
+
+.button {
+    -fx-background-color: Transparent;
+}
+
+.setStyle {
+    -fx-font-size: 30;
+    -fx-font-family: "Broadway";
+}
+
